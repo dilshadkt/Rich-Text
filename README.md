@@ -4,6 +4,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, run the development server:
 
+This is code for a rich text using joedit-react , and also using the custome way how to work it
+
+
 ```bash
 npm run dev
 # or
